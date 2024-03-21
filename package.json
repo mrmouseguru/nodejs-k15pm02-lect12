@@ -1,0 +1,14 @@
+{
+  "name": "@cs193x/lect12",
+  "version": "2023.spr",
+  "description": "CS193X Lecture 12",
+  "license": "UNLICENSED",
+  "private": true,
+  "type": "module",
+  "main": "server.js",
+  "dependencies": {
+  },
+  "scripts": {
+    "start": "nodemon"
+  }
+}
